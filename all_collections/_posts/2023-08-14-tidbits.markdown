@@ -49,10 +49,12 @@ Once you've created your repository, you can start adding your dev resources. Yo
 
 I hope this blog post has inspired you to create your own dev repository on GitHub. It's a great way to stay organized and productive, and it's a lot of fun to build your own personal library of knowledge.
 
-<div style="text-align:center">![Jinora at Wan Shi Tong's Library](../../assets/images/2023-08-14-tidbits/jinora.gif)</div>
+![Jinora at Wan Shi Tong's Library](../../assets/images/2023-08-14-tidbits/jinora.gif)
 
 ## Bonus tip:
 
 I also use the Chrome extension [Toby](https://www.gettoby.com/) to store links to helpful websites. Toby is a great because offers spaces and categories to organize your links.
 
-<div style="text-align:center">![Toby](../../assets/images/2023-08-14-tidbits/toby.gif)*Not this Toby, I think*.</div>
+![Toby](../../assets/images/2023-08-14-tidbits/toby.gif)
+
+*Not this Toby, I think*.

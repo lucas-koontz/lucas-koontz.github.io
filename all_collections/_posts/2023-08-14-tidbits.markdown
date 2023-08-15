@@ -55,4 +55,4 @@ I hope this blog post has inspired you to create your own dev repository on GitH
 
 I also use the Chrome extension [Toby](https://www.gettoby.com/) to store links to helpful websites. Toby is a great because offers spaces and categories to organize your links.
 
-<div style="text-align:center">![Toby](../../assets/images/2023-08-14-tidbits/toby.gif)*Not this Toby, I think*.</div>.
+<div style="text-align:center">![Toby](../../assets/images/2023-08-14-tidbits/toby.gif)*Not this Toby, I think*.</div>
